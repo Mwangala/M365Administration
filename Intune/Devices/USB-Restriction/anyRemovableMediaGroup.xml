@@ -1,0 +1,6 @@
+<Group Id="{0e35bdbb-d1ec-4fb6-815c-4bcacf3c87fd}">
+	<MatchType>MatchAny</MatchType>
+	<DescriptorIdList>
+		<PrimaryId>RemovableMediaDevices</PrimaryId>
+	</DescriptorIdList>
+</Group>
